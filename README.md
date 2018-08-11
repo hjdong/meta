@@ -1,2 +1,2 @@
 # meta
-For metagenomic analysis
+For metagenomic full analysis
