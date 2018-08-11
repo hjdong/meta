@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# 输入文件分别为样品基因丰度表、抗性基因或毒力因子基因的ID列表
+# 输入文件分别为样品基因丰度表、抗性基因或毒力因子基因的ID列表，输出为标准输出，需要重导符>
 # Useage:statistics_geneCounts_abundance.py <gene_abundance> <gens_id> > output_file_name
 # 计算注释到抗性或毒力因子的基因个数比例和丰度总和
 
